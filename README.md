@@ -64,16 +64,3 @@ Many people will run into a situation where they have to choose where to eat. Fo
 
 ## Wireframes
 <img src="https://cdn.discordapp.com/attachments/916970558288191502/1100268016547143711/image.png" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
-## Schema 
-[This section will be completed in Unit 9]
-### Models
-[Add table of models]
-### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
